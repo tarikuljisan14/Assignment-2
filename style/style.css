@@ -1,0 +1,49 @@
+body{
+    /* margin-left: 100px; */
+}
+footer{
+    background-color:#01ACFD ;
+    padding-bottom: 100px;
+}
+.hp{
+    margin-left: 100px;
+}
+.footer-flex{
+    display: flex;
+    gap: 250px;
+}
+.kids-flex{
+    display: flex;
+}
+.white{
+    color: white;
+    /* opacity: 90%; */
+}
+
+/* Responsive */
+@media screen and (max-width:576px){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* footer */
+
+}
