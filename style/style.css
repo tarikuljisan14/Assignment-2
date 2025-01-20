@@ -14,10 +14,16 @@ footer{
 }
 .kids-flex{
     display: flex;
+    align-items: center;
+    /* justify-content: center; */
 }
 .white{
-    color: white;
+    color: #FFFFFF;
+    
     /* opacity: 90%; */
+}
+.fsize{
+    font-size: 18px;
 }
 
 /* Responsive */
@@ -45,5 +51,20 @@ footer{
 
 
     /* footer */
-
+    footer{
+        /* margin-left: 20px; */
+    }
+    .hp{
+        margin-left: 20px;
+    }
+    .footer-flex{
+        flex-direction: column;
+        gap: 0px;
+    }
+    .about-head{
+        margin-left: 20px;
+    }
+    .keep-head{
+        margin-left: 20px;
+    }
 }
