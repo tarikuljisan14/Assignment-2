@@ -312,6 +312,49 @@ main{
     text-align:  center;
     margin-bottom: 50px;
 }
+.entities-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+}
+.entities-one{
+    /* border: 2px solid black; */
+    border-radius: 100%;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    
+    
+}
+.entities-two{
+    border-radius: 100%;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+   
+    /* margin: auto; */
+    
+    
+    
+    
+}
+.entities-one-container{
+    
+    text-align: center;
+   
+}
+.entities-two-container{
+    
+    text-align: center;
+    
+}
 
 
 
