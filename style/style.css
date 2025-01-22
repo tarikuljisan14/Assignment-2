@@ -345,6 +345,14 @@ main{
     
     
 }
+.entities-one p{
+    margin: 0;
+    padding: 0;
+}
+.entities-two p{
+    margin: 0;
+    padding: 0;
+}
 .entities-one-container{
     
     text-align: center;
