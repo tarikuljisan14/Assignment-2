@@ -398,6 +398,11 @@ footer{
 .fsize{
     font-size: 18px;
 }
+.marquee{
+    color: red;
+    font-weight: 600;
+    font-size: 20px;
+}
 
 
 
